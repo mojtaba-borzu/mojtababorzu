@@ -7,7 +7,9 @@ export const metadata: Metadata = {
   robots: "index",
   openGraph: {
     description: "Front end programmer",
-    images: ["https://mojtababorzu.ir/mojtababorzu.jpeg"],
+    images: [
+      "https://personalimages.s3.ir-thr-at1.arvanstorage.ir/1697698731558.jpeg?versionId=",
+    ],
     url: "https://mojtababorzu.ir",
   },
 }
